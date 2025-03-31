@@ -1,0 +1,27 @@
+# Obsidian system files
+.obsidian/cache
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/appearance.json
+.trash/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Obsidian plugins (optional - uncomment if you don't want to track plugins)
+# .obsidian/plugins/
+
+# Mobile app files
+.mobile/
+
+# Hot reload files
+.hot-reload.json
+
+# Sync plugins temp files
+.sync-conflict-*
